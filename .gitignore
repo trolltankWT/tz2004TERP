@@ -1,3 +1,4 @@
 credentialsDontPost/
 .env
 node_modules/
+deploy/
